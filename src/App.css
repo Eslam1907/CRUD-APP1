@@ -1,0 +1,14 @@
+.sidebar {
+  height: 100vmax;
+  background-color: #f8f9fa;
+}
+
+.sidebar li {
+  padding: 15px 10px;
+  text-align: center;
+
+}
+.sidebar li a{
+  text-decoration: none;
+  color: darkmagenta;
+}
